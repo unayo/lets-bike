@@ -1,0 +1,17 @@
+body {
+  background-color: #050f18 !important;
+}
+.btn-primary {
+  &:hover {
+    background: linear-gradient(140deg, #F07E3F, #FFCE65);
+  }
+}
+
+
+// Bootstrap
+// assets/main.scss---------
+@import "~bootstrap/scss/functions";
+@import "helpers/variables";
+@import "~bootstrap/scss/mixins";
+
+@import '~bootstrap/scss/bootstrap';
