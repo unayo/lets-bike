@@ -23,3 +23,4 @@
 
 ## Design Ref.
 UI Designer : [ching](https://www.figma.com/file/PjIYEwbH4y5e97NnR5KdIq/Let's-BIKE?node-id=0%3A1)
+<img width="100%" alt="截圖 2021-11-23 上午12 15 16" src="https://user-images.githubusercontent.com/42484804/142896495-0d66dfb1-6fda-4ca3-b40c-704605bae379.png">
