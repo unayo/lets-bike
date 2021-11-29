@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/lets-bus/dist/'
+  publicPath: '/lets-bike/dist/'
 }
